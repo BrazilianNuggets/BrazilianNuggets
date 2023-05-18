@@ -1,6 +1,7 @@
 <div align="center">
 <img width="90%" src="https://lh3.googleusercontent.com/pw/AL9nZEWdxZiGPJB4YF9FAi_ZRtaFhePTyxOURrXstGcF2LApbUHTFQ5vftxkT0ax-0hgJCglizUMruCS8CS00F14EbXZCu6cSUx03D-anF4Mv_-2mBNRYPA_I0hZTfgdv_dFyunG0e4NBQQY0u9HGnrNsQIx=w1080-h849-p" />
 </div>
+<br/><br/>
 <div align="center">
 	<a href="http://braziliannuggets.blogspot.com.br/" style="text-decoration: none;" target="_blank">
 		<img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Blogger.svg" width="30" height="30">
